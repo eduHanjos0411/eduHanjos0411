@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduhanjos0411&label=Profile%20views&color=0e75b6&style=flat" alt="eduhanjos0411" /> </p>
 
-- 🔭 I’m currently working on [Shared-UI](https://github.com/anpdgovbr/shared-ui)
+- 🔭 I’m currently working on [Meu Portfólio](https://github.com/eduHanjos0411/MeuPortfolio)
 
 - 🌱 I’m currently learning **React, Typescript, Java and Springboot**
 
