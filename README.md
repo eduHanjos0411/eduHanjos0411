@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Typescript, Java and Springboot**
 
-- 🔭 I’m currently working on [Licitratos](https://github.com/eduHanjos0411/Licitratos)
+- 🔭 I’m currently working on [FinTrack](https://github.com/eduHanjos0411/FinTrack)
 
 - 🌱 I want to start learning **Angular and Kotlin**
 
